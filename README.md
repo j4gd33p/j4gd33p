@@ -8,7 +8,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jagdeep-sing" alt="jagdeep-sing" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=j4gd33p" alt="j4gd33p" />
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 <!-- spotify -->
@@ -19,14 +19,14 @@
 <!-- thropy -->
 <a href="#">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jagdeep-sing&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=j4gd33p&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jagdeep-sing&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdeep-sing&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=j4gd33p&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4gd33p&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
 <p align="center">
