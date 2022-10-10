@@ -73,16 +73,12 @@
 <a href="https://stackoverflow.com/users/5894421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5894421" height="30" width="30" /></a>
 <a href="/techmeme.com/feed.xml?x=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="techmeme.com/feed.xml?x=1" height="30" width="30" /></a>
 </p>
-
-### ✍️ Random Dev Quote
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=j4gd33p&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/j4gd33p) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
