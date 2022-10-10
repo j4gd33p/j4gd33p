@@ -73,9 +73,8 @@
 <a href="https://stackoverflow.com/users/5894421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5894421" height="30" width="30" /></a>
 <a href="/techmeme.com/feed.xml?x=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="techmeme.com/feed.xml?x=1" height="30" width="30" /></a>
 </p>
-<p align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-</p>
 
 ---
 
