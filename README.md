@@ -26,7 +26,7 @@
 <!-- status codes -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=j4gd33p&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4gd33p&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=j4gd33p&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4gd33p&layout=compact&theme=tokyonight&count_private=true" alt="languages" height="165">
 </p>
 
 <p align="center">
