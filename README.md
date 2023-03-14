@@ -8,7 +8,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=j4gd33p" alt="j4gd33p" />
+<p align="center"> <b><a style="font-size:27px" href="https://github.com/Jagdeep-Sing">Other GITHUB Account</a><b> <br><br> <img src="https://komarev.com/ghpvc/?username=j4gd33p" alt="j4gd33p" />
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 <!-- spotify -->
